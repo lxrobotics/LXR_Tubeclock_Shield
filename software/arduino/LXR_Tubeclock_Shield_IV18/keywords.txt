@@ -1,0 +1,17 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_Tubeclock_Shield_IV18	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+write_string	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DISPLAY_SIZE	LITERAL1

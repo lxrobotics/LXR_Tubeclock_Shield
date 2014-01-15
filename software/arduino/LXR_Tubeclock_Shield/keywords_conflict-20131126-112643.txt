@@ -1,0 +1,29 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+LXR_Tubeclock_Shield	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+get_ldr_voltage	KEYWORD2
+get_ntc_voltage	KEYWORD2
+register_button_callback	KEYWORD2
+set_tube_voltage	KEYWORD2
+enable_tube_voltage	KEYWORD2
+encoder_enabled	KEYWORD2
+disable_tube_voltage	KEYWORD2
+enable_vfd_controller	KEYWORD2
+disable_vfd_controller	KEYWORD2
+vfd_controller_blank_on	KEYWORD2
+vfd_controller_blank_off KEYWORD2
+vfd_controller_write KEYWORD2
+vfd_controller_load KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX_TUBE_VOLTAGE	LITERAL1
