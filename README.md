@@ -1,11 +1,15 @@
-LXR_Tubeclock_Shield
-====================
-Sämtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 3.0 (Attribution-NonCommercial-ShareAlike 3.0 Unported)
+LXRobotics P4 TubeClockShield
+==============
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.de
+![LXRobotics P4 TubeClockShield](https://www.lxrobotics.com/wp-content/uploads/mz_product_page_tubeclock_shield_side_small.jpg)
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+## Weitere Informationen / Further Information
 
-Weitere Informationen unter:
+* **DE:** https://www.lxrobotics.com/produkte/arduino-shields/tubeclock-shield
+* **EN:** https://www.lxrobotics.com/en/products/arduino-shields/tubeclock-shield
 
-http://www.lxrobotics.com/produkte/arduino-shields/tubeclock-shield
+## Lizenz / License
+SÃ¤mtliche Inhalte dieses Repositories stehen unter der CreativeCommons Lizenz CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 Unported)
+
+* **DE:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de
+* **EN:** http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
